@@ -1,2 +1,2 @@
 # tradeitbe-privacy
-TRaDeiTBe Privacy Police
+TRaDeiTBe Privacy Policy
